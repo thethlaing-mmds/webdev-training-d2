@@ -21,6 +21,8 @@ docker ps -a
 
 ## Elastic Search
 
+https://www.tutorialspoint.com/elasticsearch/elasticsearch_query_dsl.htm
+
 ### Installation 
 
 https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
