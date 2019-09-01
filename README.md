@@ -49,6 +49,10 @@ composer require babenkoivan/scout-elasticsearch-driver
 
 https://github.com/babenkoivan/scout-elasticsearch-driver#installation
 
+```
+php artisan scout:import "App\Post"
+```
+
 
 ### Python Automation
 
